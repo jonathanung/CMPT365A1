@@ -1,0 +1,5 @@
+            # print("Tag ID:", tag_id)
+            # print("Data type:", data_type)
+            # print("Number of values:", num_values)
+            # print("Value:", value)
+            # print()
